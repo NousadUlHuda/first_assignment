@@ -38,6 +38,9 @@
     margin-top: 120px;
 }
 
+.offer-class{
+    background-color: rgb(206, 221, 221);
+}
 .offer{
     color: #F00;
     text-align: center;
