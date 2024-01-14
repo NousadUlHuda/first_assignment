@@ -9,24 +9,61 @@
     background: linear-gradient: #070211;
 
 }
-
+.new-year-div{
+    display: block;
+    gap: 50px;
+}
 .new-year-title{
-color: #FFD700;
-text-align: center;
-font-size: 32px;
-font-weight: 400;
-line-height: normal;
-margin-bottom: 0px;
-padding-top: 150px;
+    color: #FFD700;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0px;
+    padding-top: 150px;
 }
 
 .new-year-party{
-color: #000000;
-text-align: center;
-font-size: 72px;
-
-margin-top: 15px;
-padding-left: 344px;
-padding-bottom: 200px;
-padding-right: 344px;
+    color: #000000;
+    text-align: center;
+    font-size: 72px;
+    margin-top: 15px;
+    padding-left: 344px;
+    padding-bottom: 200px;
+    padding-right: 344px;
 }
+
+
+.offer-class{
+    margin-top: 120px;
+}
+
+.offer{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 40px;
+  }
+
+  .offer-holyday{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0px;
+  }
+
+  .offer-catagory{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 2px;
+    
+  }
+
+  .new-year-photo{
+    margin-left: 300px;
+  }
