@@ -70,3 +70,33 @@
   .new-year-photo{
     margin-left: 300px;
   }
+
+  .main-column{
+    display: flex;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin: 40px;
+  }
+
+  .column-title{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 600px;
+    margin: 126px 350px 298px 126px;
+    margin-bottom: 0px;
+  
+}
+
+.column-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 22px;
+    font-weight: 400px;
+    margin: 160px 250px 150px 126px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.btn-primary{
+    margin: 5px 120px 0px 120px;
+}
