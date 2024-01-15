@@ -94,10 +94,43 @@
     font-weight: 400px;
     margin: 160px 250px 150px 126px;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 0px; 
     
 }
 
 .btn-primary{
     margin: 5px 120px 0px 120px;
+    
 }
+
+main{
+  margin: 0 auto;
+}
+.new-park{
+  background-color: #bea203;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  width: 1320px;
+height: 482px;
+}
+
+.new-park-hotel{
+  
+  color: #070211;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  padding: 100px 386px 214px 386px;
+  gap: 10px;
+
+  .btn{
+    padding: 8px 20px;
+    align-items: center;
+    margin: 316px 577px 110px 576px;
+   
+  
+}
+.new-park-button{
+  
+}
+
