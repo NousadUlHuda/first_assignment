@@ -104,33 +104,41 @@
 }
 
 main{
-  margin: 0 auto;
+    margin: 0 auto;
 }
 .new-park{
-  background-color: #bea203;
-  margin-top: 50px;
-  margin-bottom: 100px;
-  width: 1320px;
-height: 482px;
+    background-color: #f3f1e3;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 1320px;
+    height: 482px;
+}
+
+.new-park-description{
+  
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    
 }
 
 .new-park-hotel{
-  
-  color: #070211;
-  font-size: 32px;
-  font-weight: 600;
   text-align: center;
-  padding: 100px 386px 214px 386px;
-  gap: 10px;
-
-  .btn{
-    padding: 8px 20px;
-    align-items: center;
-    margin: 316px 577px 110px 576px;
-   
   
+  margin-top: 20px;
+  padding-top: 150px;
 }
-.new-park-button{
-  
+
+.btn{
+  font-size: 20px;
+  padding: 5px 15px;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 50px;
+  margin-top: 30px;
+
 }
 
