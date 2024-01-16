@@ -252,6 +252,7 @@ main{
 
  .main-mail{
     margin-top: 100px;
+    align-items: center;
  }
 
  .paragraph-two{
@@ -262,4 +263,14 @@ font-weight: 400;
 margin-top: 22px;
 
 
+ }
+
+ .form{
+  padding: 25px 340px 25px 30px;
+  font-size: 18px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  align-items: center;
+  border-color: white;
+  margin-left: 360px;
  }
