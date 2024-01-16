@@ -142,3 +142,14 @@ main{
 
 }
 
+.offer-two{
+  display: flex;
+  text-align: justify;
+  
+}
+
+.image{
+  border-radius: 364.844px;
+  border: 15px solid #F00;
+
+}
