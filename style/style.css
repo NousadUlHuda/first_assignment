@@ -126,30 +126,76 @@ main{
 }
 
 .new-park-hotel{
-  text-align: center;
-  
-  margin-top: 20px;
-  padding-top: 150px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 150px;
 }
 
 .btn{
-  font-size: 20px;
-  padding: 5px 15px;
-  border-radius: 5px;
-  background-color: white;
-  margin-bottom: 50px;
-  margin-top: 30px;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 30px;
 
 }
 
 .offer-two{
-  display: flex;
-  text-align: justify;
-  
+    display: flex;
+    text-align: justify;
+    margin-top: 50px;
+    background-color: #c9c8c4;
+    padding: 20px 30px;
+    
 }
 
 .image{
-  border-radius: 364.844px;
-  border: 15px solid #F00;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    margin-right: 200px;
+    
 
 }
+
+.new-best-offer{
+    color: #F00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+
+}
+
+.coming-soon{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-right: 50px;
+}
+
+.paragraph{
+    margin-top: 5px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 160px;
+   
+}
+
+.ok{
+  color: #F00;
+  font-size: 48px;
+  font-weight: 700;
+ }
+
+ .dolar{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 5px;
+
+ }
